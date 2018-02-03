@@ -49,7 +49,7 @@ An OLTP dataset that consists of graduate studies applications and admission inf
 
 ![9](https://user-images.githubusercontent.com/17997235/35765251-b5ba0ef0-0885-11e8-8706-b1ca359c7610.png)
 
-### Query for filds in fact table
+### Query for fields in fact table
 
 ![10](https://user-images.githubusercontent.com/17997235/35765252-b5c4a3ce-0885-11e8-9a03-c54fff595078.png)
 
