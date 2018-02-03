@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.effect.Blend?>
+<?import javafx.scene.effect.InnerShadow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/8.0.60" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.mainpageController">
+   <effect>
+      <Blend />
+   </effect>
+   <children>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="-2.0" layoutY="-2.0" prefHeight="80.0" prefWidth="700.0" style="-fx-background-color: white;" text="Matrix" textFill="#477ab5">
+         <font>
+            <Font name="System Bold Italic" size="37.0" />
+         </font>
+         <effect>
+            <InnerShadow />
+         </effect>
+      </Label>
+      <ImageView fx:id="Imagev" fitHeight="424.0" fitWidth="746.0" layoutX="-2.0" layoutY="76.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../../../Project%20pics/movie-theatre-popcorn.jpg" />
+         </image>
+      </ImageView>
+      <Label layoutX="251.0" layoutY="54.0" prefHeight="17.0" prefWidth="195.0" text="Your satisfaction is our achievement" />
+      <ImageView fx:id="Imagev1" fitHeight="153.0" fitWidth="222.0" layoutX="82.0" layoutY="100.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fx:id="Imagev3" fitHeight="148.0" fitWidth="215.0" layoutX="78.0" layoutY="288.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fx:id="Imagev2" fitHeight="151.0" fitWidth="215.0" layoutX="398.0" layoutY="100.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fx:id="Imagev4" fitHeight="148.0" fitWidth="215.0" layoutX="409.0" layoutY="288.0" pickOnBounds="true" preserveRatio="true" />
+      <Button fx:id="b1" layoutX="78.0" layoutY="243.0" mnemonicParsing="false" onAction="#button1" opacity="0.0" prefHeight="34.0" prefWidth="222.0" style="-fx-background-color: Red;" text="Button" textFill="#f8f7f7" />
+      <Button fx:id="b2" layoutX="400.0" layoutY="243.0" mnemonicParsing="false" onAction="#button2" opacity="0.0" prefHeight="34.0" prefWidth="215.0" style="-fx-background-color: Red;" text="Button" textFill="#f8f7f7">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></Button>
+      <Button fx:id="b3" layoutX="75.0" layoutY="431.0" mnemonicParsing="false" onAction="#button3" opacity="0.0" prefHeight="34.0" prefWidth="222.0" style="-fx-background-color: red;" text="Button" textFill="#fcfcfc" />
+      <Button fx:id="b4" layoutX="411.0" layoutY="431.0" mnemonicParsing="false" onAction="#button4" opacity="0.0" prefHeight="34.0" prefWidth="215.0" style="-fx-background-color: red;" text="Button" textFill="#eeeaea">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Button>
+      <Button fx:id="b5" layoutX="275.0" layoutY="102.0" mnemonicParsing="false" prefHeight="46.0" prefWidth="95.0" text="Confirm" />
+      <Label fx:id="label" layoutX="28.0" layoutY="102.0" prefHeight="46.0" prefWidth="243.0" text="Confirm you are not a robot">
+         <font>
+            <Font name="System Bold" size="17.0" />
+         </font>
+      </Label>
+      <Button layoutX="28.0" layoutY="453.0" mnemonicParsing="false" onAction="#backbutton" text="Back" />
+      <Button layoutX="615.0" layoutY="78.0" mnemonicParsing="false" onAction="#logoutbutton" prefHeight="25.0" prefWidth="70.0" text="Logout" />
+   </children>
+</Pane>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.InnerShadow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/8.0.60" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.adminmainController">
+   <children>
+      <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="80.0" prefWidth="700.0" style="-fx-background-color: white;" text="Matrix" textFill="#477ab5">
+         <font>
+            <Font name="System Bold Italic" size="33.0" />
+         </font>
+         <effect>
+            <InnerShadow />
+         </effect>
+      </Label>
+      <Label layoutX="263.0" layoutY="57.0" prefHeight="17.0" prefWidth="195.0" text="Your satiscation is our achievement" />
+      <ImageView fitHeight="438.0" fitWidth="754.0" layoutY="74.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../../../Project%20pics/fork-and-screen-dine-in-theatre-gallery00.jpg" />
+         </image>
+      </ImageView>
+      <Button fx:id="bookmovie" layoutX="266.0" layoutY="148.0" mnemonicParsing="false" onAction="#bookmovie" prefHeight="25.0" prefWidth="188.0" text="BOOK  MOVIE" />
+      <Button fx:id="newcust" layoutX="266.0" layoutY="204.0" mnemonicParsing="false" onAction="#addcustomer" prefHeight="25.0" prefWidth="188.0" text="ADD NEW CUSTOMER" />
+      <Button fx:id="newadmin" layoutX="268.0" layoutY="263.0" mnemonicParsing="false" onAction="#addadmin" prefHeight="25.0" prefWidth="188.0" text="ADD NEW ADMIN" />
+      <Button fx:id="addmovie" layoutX="266.0" layoutY="320.0" mnemonicParsing="false" onAction="#addmovie" prefHeight="25.0" prefWidth="188.0" text="ADD MOVIE" />
+      <Button fx:id="modifymovie" layoutX="266.0" layoutY="373.0" mnemonicParsing="false" onAction="#modifymovie" prefHeight="25.0" prefWidth="188.0" text="MODIFY MOVIE" />
+      <ImageView fitHeight="67.0" fitWidth="163.0" layoutX="537.0" layoutY="5.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../Desktop/Project%20pics/Admin-resized-2.jpg" />
+         </image>
+      </ImageView>
+      <Label fx:id="label1" layoutX="59.0" layoutY="114.0" prefHeight="31.0" prefWidth="204.0" style="-fx-background-color: Silver;">
+         <font>
+            <Font name="System Bold" size="21.0" />
+         </font>
+      </Label>
+      <Label fx:id="label2" layoutX="59.0" layoutY="160.0" prefHeight="31.0" prefWidth="204.0" style="-fx-background-color: Silver;">
+         <font>
+            <Font name="System Bold" size="21.0" />
+         </font>
+      </Label>
+      <Label fx:id="label3" layoutX="59.0" layoutY="201.0" prefHeight="31.0" prefWidth="204.0" style="-fx-background-color: Silver;">
+         <font>
+            <Font name="System Bold" size="21.0" />
+         </font>
+      </Label>
+      <Label fx:id="label4" layoutX="59.0" layoutY="247.0" prefHeight="31.0" prefWidth="204.0" style="-fx-background-color: Silver;">
+         <font>
+            <Font name="System Bold" size="21.0" />
+         </font>
+      </Label>
+      <Label fx:id="label5" layoutX="59.0" layoutY="292.0" prefHeight="31.0" prefWidth="204.0" style="-fx-background-color: Silver;">
+         <font>
+            <Font name="System Bold" size="21.0" />
+         </font>
+      </Label>
+      <Label fx:id="label6" layoutX="59.0" layoutY="332.0" prefHeight="31.0" prefWidth="204.0" style="-fx-background-color: Silver;">
+         <font>
+            <Font name="System Bold" size="21.0" />
+         </font>
+      </Label>
+      <Label fx:id="label7" layoutX="59.0" layoutY="373.0" prefHeight="31.0" prefWidth="204.0" style="-fx-background-color: Silver;">
+         <font>
+            <Font name="System Bold" size="21.0" />
+         </font>
+      </Label>
+      <Label fx:id="label8" layoutX="59.0" layoutY="415.0" prefHeight="31.0" prefWidth="204.0" style="-fx-background-color: Silver;">
+         <font>
+            <Font name="System Bold" size="21.0" />
+         </font>
+      </Label>
+      <TextField fx:id="txtfld1" layoutX="463.0" layoutY="114.0" prefHeight="31.0" prefWidth="149.0" />
+      <TextField fx:id="txtfld2" layoutX="463.0" layoutY="160.0" prefHeight="31.0" prefWidth="149.0" />
+      <TextField fx:id="txtfld3" layoutX="463.0" layoutY="201.0" prefHeight="31.0" prefWidth="149.0" />
+      <TextField fx:id="txtfld4" layoutX="463.0" layoutY="247.0" prefHeight="31.0" prefWidth="149.0" />
+      <TextField fx:id="txtfld5" layoutX="463.0" layoutY="292.0" prefHeight="31.0" prefWidth="149.0" />
+      <TextField fx:id="txtfld6" layoutX="463.0" layoutY="332.0" prefHeight="31.0" prefWidth="149.0" />
+      <TextField fx:id="txtfld7" layoutX="463.0" layoutY="373.0" prefHeight="31.0" prefWidth="149.0" />
+      <Button fx:id="add1" layoutX="318.0" layoutY="434.0" mnemonicParsing="false" onAction="#addcustomerbutton" prefHeight="25.0" prefWidth="86.0" text="Add" />
+      <Button fx:id="add2" layoutX="319.0" layoutY="461.0" mnemonicParsing="false" onAction="#addadminbutton" prefHeight="25.0" prefWidth="86.0" text="Add" />
+      <PasswordField fx:id="txtfld8" layoutX="463.0" layoutY="415.0" prefHeight="31.0" prefWidth="149.0" />
+      <Button fx:id="add3" layoutX="317.0" layoutY="403.0" mnemonicParsing="false" onAction="#addmoviebutton" prefHeight="25.0" prefWidth="86.0" text="Add" />
+      <Button fx:id="customerbb" layoutX="25.0" layoutY="461.0" mnemonicParsing="false" onAction="#customerback" prefHeight="25.0" prefWidth="68.0" text="Back" />
+      <Button fx:id="adminbb" layoutX="52.0" layoutY="461.0" mnemonicParsing="false" onAction="#adminback" text="Back" />
+      <Button fx:id="moviebb" layoutX="72.0" layoutY="461.0" mnemonicParsing="false" onAction="#movieback" text="Back" />
+      <Button fx:id="logout" layoutX="626.0" layoutY="89.0" mnemonicParsing="false" onAction="#loggingout" text="Logout" />
+   </children>
+</Pane>
