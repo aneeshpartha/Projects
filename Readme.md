@@ -8,7 +8,7 @@ Seeing these huge amounts of data being generated every second has brought me in
 
 __*NO MATTER WHAT HAPPENS MY JOURNEY IN THE POOL OF DATA WILL CONTINUE !!!!!!!!!!!!!*__
 
-![img_7735 1](https://user-images.githubusercontent.com/17997235/37382365-7fa7295c-2710-11e8-9cfa-ad94087d20cd.JPG)     
+![cert](https://user-images.githubusercontent.com/17997235/37382582-968e630a-2711-11e8-8c21-54318f8881d4.JPG) 
 
 # Projects
 
