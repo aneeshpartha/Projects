@@ -6,12 +6,12 @@ thought me the management and people skills required for an organization. My int
 domains where a single technology is used in different ways but a common thing we can see is the generation of data. Data is playing an important role in present and it will continue to be the same in future but with more severity.
 Seeing these huge amounts of data being generated every second has brought me interest to explore these and try to understand what these data wanted to convey to outside world. 
 
-NO MATTER WHAT HAPPENS MY JOURNEY IN THE POOL OF DATA WILL CONTINUE !!!!!!!!!!!!!
+*** NO MATTER WHAT HAPPENS MY JOURNEY IN THE POOL OF DATA WILL CONTINUE !!!!!!!!!!!!! ***
      
 
 # Projects
 
-## [UK Accident Analysis using Spark](https://github.com/aneeshpartha/Projects/tree/master/UK_ACCIDENT_ANALYSIS_ANALYSIS_SPARK)
+## [UK Accident Analysis using Spark](https://github.com/aneeshpartha/Projects/tree/master/UK_ACCIDENT_ANALYSIS_SPARK)
 
 ## [Youtube analytics using Scala](https://github.com/aneeshpartha/Projects/tree/master/YOUTUBE_ANALYTICS_SCALA)
 
@@ -21,4 +21,4 @@ NO MATTER WHAT HAPPENS MY JOURNEY IN THE POOL OF DATA WILL CONTINUE !!!!!!!!!!!!
 
 ## [Pick3 Lotto game using Python](https://github.com/aneeshpartha/Projects/tree/master/PICK3_LOTTO_GAME_PYTHON)
 
-## [Web log analysis using hadoop , pig and hive]()
+## [Web log analysis using hadoop , pig and hive](https://github.com/aneeshpartha/Projects/tree/master/WEB_LOG_ANALYSIS_HADOOP)
