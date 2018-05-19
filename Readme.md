@@ -24,3 +24,5 @@ __*NO MATTER WHAT HAPPENS MY JOURNEY IN THE POOL OF DATA WILL CONTINUE !!!!!!!!!
 
 ## [Pick3 Lotto game using Python](https://github.com/aneeshpartha/PICK3_LOTTO_GAME)
 
+## [Service Oriented Architecture] (https://github.com/mpradeep1994/SOA_WEBSERVICE)
+
