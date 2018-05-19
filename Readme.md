@@ -12,15 +12,15 @@ __*NO MATTER WHAT HAPPENS MY JOURNEY IN THE POOL OF DATA WILL CONTINUE !!!!!!!!!
 
 # Projects
 
-## [UK Accident Analysis using Spark](https://github.com/aneeshpartha/Projects/tree/master/UK_ACCIDENT_ANALYSIS_SPARK)
+## [UK Accident Analysis using Spark](https://github.com/aneeshpartha/UK_ACCIDENT_ANALYSIS)
 
-## [Youtube analytics using Scala](https://github.com/aneeshpartha/Projects/tree/master/YOUTUBE_ANALYTICS_SCALA)
+## [Youtube analytics using Scala](https://github.com/aneeshpartha/YOUTUBE_ANALYTICS)
 
-## [Web log analysis using hadoop , pig and hive](https://github.com/aneeshpartha/Projects/tree/master/WEB_LOG_ANALYSIS_HADOOP)
+## [Web log analysis using hadoop , pig and hive](https://github.com/aneeshpartha/WEB_LOG_ANALYSIS)
 
-## [Building a data warehouse for student application](https://github.com/aneeshpartha/Projects/tree/master/STUDENT_APPLICATION_DATA_WAREHOUSE)
+## [Building a data warehouse for student application](https://github.com/aneeshpartha/STUDENT_APPLICATION_DATA_WAREHOUSE)
 
-## [Matrix Cinemas - A movie booking application using Java](https://github.com/aneeshpartha/Projects/tree/master/MATRIX_CINEMAS_JAVA)
+## [Matrix Cinemas - A movie booking application using Java](https://github.com/aneeshpartha/MATRIX_CINEMAS)
 
-## [Pick3 Lotto game using Python](https://github.com/aneeshpartha/Projects/tree/master/PICK3_LOTTO_GAME_PYTHON)
+## [Pick3 Lotto game using Python](https://github.com/aneeshpartha/PICK3_LOTTO_GAME)
 
