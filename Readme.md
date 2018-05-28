@@ -6,9 +6,6 @@ thought me the management and people skills required for an organization. My int
 domains where a single technology is used in different ways but a common thing we can see is the generation of data. Data is playing an important role at present and it will continue to be the same in future but with increased severity.
 Seeing these huge amounts of data being generated every second has developed an interest in me to explore it and try to understand what these data wanted to convey to outside world. 
 
-__*NO MATTER WHAT HAPPENS MY JOURNEY IN THE POOL OF DATA WILL CONTINUE !!!!!!!!!!!!!*__
-
-![cert](https://user-images.githubusercontent.com/17997235/37382582-968e630a-2711-11e8-8c21-54318f8881d4.JPG) 
 
 # Projects
 
